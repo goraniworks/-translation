@@ -593,7 +593,7 @@ Eunha: Hi, I'm Jung Eun Bi.
 149
 00:06:24,240 --> 00:06:26,240
 Eunha: The promises I have prepared are
-//////////////////////////////////////////////////////////////////
+
 150
 00:06:26,240 --> 00:06:32,240
 Eunha: Recently, I've been running a burger truck game called "My Little Chef."
