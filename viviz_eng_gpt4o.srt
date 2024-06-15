@@ -1,6 +1,10 @@
+1
+00:00:03,000 --> 00:00:07,000
+VIVIZ High School Welcomes the New School Year of 2024
+
 2
 00:00:11,000 --> 00:00:15,000
-Kim Ye-won arrives at school - Top student at BIBIZ High School - Seems to have a hidden past.
+Kim Ye-won arrives at school - Top student at VIVIZ High School - Seems to have a hidden past.
 
 3
 00:00:15,000 --> 00:00:16,060
@@ -60,7 +64,7 @@ Teacher: Let's go. If she’s here, everyone should be here.
 
 17
 00:00:55,880 --> 00:00:56,880
-What will happen at BIBIZ High School?
+What will happen at VIVIZ High School?
 
 18
 00:01:09,880 --> 00:01:10,880
@@ -100,7 +104,7 @@ Eun-bi, where did you get that tie?
 
 27
 00:01:39,000 --> 00:01:42,000
-Hwang Eun-bi naturally heads to the back seat
+(Hwang) Eun-bi naturally heads to the back seat
 
 28
 00:01:42,000 --> 00:01:45,000
@@ -132,7 +136,7 @@ Eunha: If I hadn’t had that slice of bread, I wouldn’t have been able to ope
 
 35
 00:02:07,240 --> 00:02:10,000
-Jung Eun-bi also manages to arrive at school
+(Jung) Eun-bi also manages to arrive at school
 
 36
 00:02:10,000 --> 00:02:15,240
@@ -217,6 +221,7 @@ Shinbi: She’s reading an English book
 56
 00:02:53,240 --> 00:02:54,240
 Will school life be okay?
+
 57
 00:02:57,000 --> 00:02:58,240
 Then, the homeroom teacher of Class 2-5 makes an appearance.
@@ -391,7 +396,7 @@ And so, the scandalous past is revealed.
 
 100
 00:04:30,240 --> 00:04:31,000
-Possessing the number one in the school, Kim Yewon, once again.
+Kim Yewon is pretending to be a model student once again.
 
 101
 00:04:31,000 --> 00:04:33,000
@@ -420,6 +425,7 @@ Exiting while leaving behind massive curiosity, Yewon.
 107
 00:04:48,000 --> 00:04:51,000
 What on earth happened at Shinsong Middle School that year?
+
 108
 00:04:52,000 --> 00:04:54,240
 SinB: Hi, I'm Hwang Eun Bi.
@@ -587,53 +593,53 @@ Eunha: Hi, I'm Jung Eun Bi.
 149
 00:06:24,240 --> 00:06:26,240
 Eunha: The promises I have prepared are
-
+//////////////////////////////////////////////////////////////////
 150
-00:06:26,240 --> 00:06:30,240
+00:06:26,240 --> 00:06:32,240
 Eunha: Recently, I've been running a burger truck game called "My Little Chef."
 
 151
-00:06:30,240 --> 00:06:32,240
+00:06:33,240 --> 00:06:34,240
 Eunha: If I become the class president,
 
 152
-00:06:33,240 --> 00:06:34,240
+00:06:34,240 --> 00:06:36,240
 Eunha: I want to go eat burgers together.
 
 153
-00:06:34,240 --> 00:06:36,240
+00:06:37,240 --> 00:06:38,240
 SinB: How many times?
 
 154
-00:06:37,240 --> 00:06:38,240
+00:06:39,000 --> 00:06:41,000
 Eunbi finds it too difficult...
 
 155
-00:06:39,000 --> 00:06:41,000
+00:06:41,240 --> 00:06:43,240
 SinB: Surely it's not just once? / Eunha: How many times should we go?
 
 156
-00:06:41,240 --> 00:06:43,240
+00:06:43,240 --> 00:06:47,240
 Eunha: I'm still just a student...
 
 157
-00:06:43,240 --> 00:06:47,240
+00:06:47,240 --> 00:06:49,240
 Umji: What if I can't eat flour?
 
 158
-00:06:47,240 --> 00:06:49,240
+00:06:49,240 --> 00:06:50,240
 SinB: Oh, really?
 
 159
-00:06:49,240 --> 00:06:50,240
+00:06:50,240 --> 00:06:51,240
 SinB: Oh no.
 
 160
-00:06:50,240 --> 00:06:51,240
+00:06:51,240 --> 00:06:52,240
 The entire universe is against Jung Eun Bi becoming class president.
 
 161
-00:06:51,240 --> 00:06:56,240
+00:06:52,240 --> 00:06:56,240
 Eunha: How about going to Lotteria to eat a rice burger?
 
 162
@@ -646,11 +652,12 @@ Eunha: Sure.
 
 164
 00:06:59,240 --> 00:07:01,240
-KnowledgeIn: Q. Is there a place selling the discontinued Lotteria rice burger? A. No.
+quora: Q. Is there a place selling the discontinued Lotteria rice burger? A. No.
 
 165
 00:07:01,240 --> 00:07:03,240
 Eunha: Then, please take care of me, everyone.
+
 167
 00:07:05,240 --> 00:07:07,240
 SinB: The votes are going to be split clearly, I think?
@@ -661,7 +668,7 @@ Teacher: Everyone close your eyes.
 
 169
 00:07:08,240 --> 00:07:09,240
-Teacher: If you open your eyes, you can see everything.
+Teacher: If you open your eyes, I will see you.
 
 170
 00:07:09,240 --> 00:07:11,240
@@ -906,6 +913,7 @@ Appealing unfairness to the fourth wall
 230
 00:09:19,240 --> 00:09:21,240
 SinB: I thought it would be me.
+
 231
 00:09:23,000 --> 00:09:25,240
 First Period: Morality Class
@@ -1017,6 +1025,7 @@ SinB: It's clear-cut.
 258
 00:10:04,240 --> 00:10:05,240
 Teams split neatly as they were seated.
+
 259
 00:10:06,000 --> 00:10:06,240
 Teacher: Here is summer.
@@ -1047,7 +1056,7 @@ Umji: I heard your birthday is around summer.
 
 266
 00:10:20,240 --> 00:10:22,240
-SinB: I wanted to be discharged in the winter.
+SinB: I wanted to be born in winter.
 
 267
 00:10:22,240 --> 00:10:23,240
@@ -1055,7 +1064,7 @@ Umji: Oh, really?
 
 268
 00:10:23,240 --> 00:10:24,240
-Umji: I actually wanted to be discharged in the fall.
+Umji: Actually, I wanted to be born in autumn, too.
 
 269
 00:10:24,240 --> 00:10:26,240
@@ -1063,7 +1072,7 @@ SinB: I had no choice but to come out in summer.
 
 270
 00:10:26,240 --> 00:10:28,240
-Umji: The reason I'm pushing it hard
+Umji: The reason I consider it important is
 
 271
 00:10:28,240 --> 00:10:29,240
@@ -1120,6 +1129,7 @@ Umji: It gets a bit tough in the winter.
 284
 00:10:52,240 --> 00:10:54,000
 Successfully voiced her opinion and promoted the family business.
+
 285
 00:10:54,000 --> 00:10:56,000
 SinB: The reason it's winter
@@ -1275,6 +1285,7 @@ SinB: I said I eat it in winter.
 323
 00:12:07,500 --> 00:12:08,880
 Umji: Fighting heat with heat.
+
 324
 00:12:08,880 --> 00:12:10,680
 Eunha: I'll just speak based on my standards.
@@ -1341,7 +1352,7 @@ Eunha: Oh!
 
 340
 00:12:35,620 --> 00:12:37,660
-Umji: That sounds quite tight.
+Umji: This disagreement is still quite tense.
 
 341
 00:12:37,660 --> 00:12:38,360
@@ -1369,7 +1380,7 @@ SinB: Your pores tighten in winter.
 
 347
 00:12:45,980 --> 00:12:48,000
-Flawless logic
+Perfect logic
 
 348
 00:12:48,000 --> 00:12:49,480
@@ -1469,7 +1480,7 @@ Teacher: Now, for the second topic.
 
 372
 00:13:20,680 --> 00:13:23,880
-Teacher: Is knowledge power? Or is ignorance bliss?
+Teacher: Is knowledge power? Or is ignorance a remedy(bliss)?
 
 373
 00:13:25,280 --> 00:13:28,460
@@ -1493,7 +1504,7 @@ Eunha: Then I think ignorance
 
 378
 00:13:33,260 --> 00:13:35,300
-Eunha: is bliss.
+Eunha: is a remedy(bliss).
 
 379
 00:13:37,000 --> 00:13:39,140
@@ -1505,7 +1516,7 @@ This person suddenly started acting suspiciously / Eunha: Honestly, I don't have
 
 381
 00:13:41,840 --> 00:13:44,000
-Why is Hwang Eunbi rummaging through the desk? / Eunha: Ignorance is bliss and also a strength...
+Why is Hwang Eunbi rummaging through the desk? / Eunha: Ignorance is a remedy and also a strength...
 
 382
 00:13:45,000 --> 00:13:47,000
@@ -1522,6 +1533,7 @@ During the debate, they had to find the hidden <lunch note> without the teacher 
 385
 00:13:53,000 --> 00:13:56,480
 I wonder what kind of substitute lunch will come out if they find the note?
+
 386
 00:13:56,480 --> 00:13:58,520
 Teacher: Since we've changed seats,
@@ -1572,7 +1584,7 @@ Umji: Thinking of keep going,
 
 398
 00:14:17,800 --> 00:14:20,180
-Umji: one might think 'Ignorance is bliss' but / Hwang Eunbi is more focused on
+Umji: one might think 'Ignorance is a remedy' but / Hwang Eunbi is more focused on
 
 399
 00:14:20,180 --> 00:14:21,520
@@ -1616,44 +1628,43 @@ Eunha: And actually, I'm more focused not on knowing or not knowing
 
 409
 00:14:40,240 --> 00:14:41,360
-Eunha: but on power and weakness.
+Eunha: but on power and medicine.
 
 410
 00:14:41,360 --> 00:14:43,500
-Eunha: Focusing on power and weakness,
+Eunha: but I've focused on 'power' and 'medicine'.
 
 411
 00:14:43,500 --> 00:14:45,600
-Umji: Oh, something different...
+Umji: Oh, that's different...
 
 412
 00:14:45,600 --> 00:14:47,940
-Eunha: When I focus on power and weakness,
-is having power really advantageous?
+Eunha: I focused on 'power' and 'medicine',
 
 413
 00:14:47,940 --> 00:14:49,280
-Eunha: People just use it to fight.
+Eunha: What good is power anyway?
 
 414
 00:14:49,280 --> 00:14:50,240
-Eunha: But a weakness heals someone,
+Eunha: It only leads to fighting.
 
 415
 00:14:50,240 --> 00:14:53,020
-Eunha: surrounds them with love,
+Eunha: But medicine heals people,
 
 416
 00:14:53,020 --> 00:14:54,780
-Eunha: so I think weakness is better,
+Eunha: wraps them in love,
 
 417
 00:14:54,780 --> 00:14:57,180
-Eunha: and weakness overcomes power.
+Eunha: that's why I think medicine is more important,
 
 418
 00:14:57,180 --> 00:14:59,420
-Eunha: Weakness wins over power.
+Eunha: and medicine triumphs over power.
 
 419
 00:15:01,380 --> 00:15:03,260
@@ -1753,4 +1764,4 @@ Eunha: I want to stay ignorant.
 
 443
 00:15:49,580 --> 00:15:51,380
-Umji: Great retort.
+Umji: Great singer.
