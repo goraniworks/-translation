@@ -2256,7 +2256,7 @@
 
 565
 00:31:25,440 --> 00:31:30,679
-[Yuha] 3 8 6 ya. Kalau gitu 3 kali 3 sama dengan 9, 9 kurang 6 sama dengan 3. 8 kali 3 sama dengan
+[Yuha] 3 3 8 6 ya. Kalau gitu 3 kali 3 sama dengan 9, 9 kurang 6 sama dengan 3. 8 kali 3 sama dengan
 
 566
 00:31:30,679 --> 00:31:32,760
@@ -5721,3 +5721,4 @@ eh iya
 1431
 01:13:21,360 --> 01:13:24,360
 [Stella] Terima kasih.
+
