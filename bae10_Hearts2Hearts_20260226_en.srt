@@ -2256,7 +2256,7 @@
 
 565
 00:31:25,440 --> 00:31:30,679
-[Yuha] 3-8-6. Then 3 times 3 equals 9, 9 minus 6 equals 3, 8 times 3 equals
+[Yuha] 3-3-8-6. Then 3 times 3 equals 9, 9 minus 6 equals 3, 8 times 3 equals
 
 566
 00:31:30,679 --> 00:31:32,760
@@ -5717,3 +5717,4 @@ Uh yeah
 1431
 01:13:21,360 --> 01:13:24,360
 [Stella] Thank you.
+
